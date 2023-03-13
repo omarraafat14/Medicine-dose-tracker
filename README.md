@@ -10,3 +10,4 @@ A web app with a simple UI where a user can sign up for an account. Once logged 
   - Medicine Name - String
   - Dosage - Quantity (Integer) with units (String) or a freeform text field (String)
   - Frequency - Quantity (Integer) with units (String) or freeform text field (String)
+- The user can see their data in the form of a list (tracked medicines, dosages, and frequency). They can also update and delete existing data. Update can be done via a similar form as adding new data (with field values already populated with existing data).
